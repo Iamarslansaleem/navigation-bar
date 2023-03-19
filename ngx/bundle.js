@@ -22,6 +22,6 @@ var NavigationBar = /** @class */ (function (_super) {
         { type: core$1.Injectable }
     ];
     return NavigationBar;
-}(core.IonicNativePlugin));
+}(core.AwesomeCordovaNativePlugin));
 
 exports.NavigationBar = NavigationBar;

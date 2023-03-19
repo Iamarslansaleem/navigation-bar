@@ -1,4 +1,4 @@
-import { IonicNativePlugin } from '@awesome-cordova-plugins/core';
+import { AwesomeCordovaNativePlugin } from '@awesome-cordova-plugins/core';
 /**
  * @beta
  * @name Navigation Bar
@@ -17,7 +17,7 @@ import { IonicNativePlugin } from '@awesome-cordova-plugins/core';
  * this.navigationBar.setUp(autoHide);
  * ```
  */
-export declare class NavigationBarOriginal extends IonicNativePlugin {
+export declare class NavigationBarOriginal extends AwesomeCordovaNativePlugin {
     /**
      * hide automatically (or not) the navigation bar.
      * @param autohide {boolean}
