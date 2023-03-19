@@ -1,4 +1,4 @@
-import { IonicNativePlugin } from '@ionic-native/core';
+import { IonicNativePlugin } from '@awesome-cordova-plugins/core';
 /**
  * @beta
  * @name Navigation Bar
@@ -7,7 +7,7 @@ import { IonicNativePlugin } from '@ionic-native/core';
  *
  * @usage
  * ```typescript
- * import { NavigationBar } from '@ionic-native/navigation-bar/ngx';
+ * import { NavigationBar } from '@awesome-cordova-plugins/navigation-bar/ngx';
  *
  * constructor(private navigationBar: NavigationBar) { }
  *

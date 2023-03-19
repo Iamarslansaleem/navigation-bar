@@ -1,6 +1,6 @@
 import { __extends } from "tslib";
 import { Injectable } from '@angular/core';
-import { IonicNativePlugin, cordova } from '@ionic-native/core';
+import { IonicNativePlugin, cordova } from '@awesome-cordova-plugins/core';
 var NavigationBar = /** @class */ (function (_super) {
     __extends(NavigationBar, _super);
     function NavigationBar() {
